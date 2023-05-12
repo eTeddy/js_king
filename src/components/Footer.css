@@ -1,0 +1,11 @@
+.footer {
+  background: #445942;  
+    color: #dad2ba;   
+  width: 100%;
+  margin: 0;
+  padding: 10px 0 10px 0;
+  line-height: 1.6;
+}
+a {
+    color: #dad2ba;
+}
