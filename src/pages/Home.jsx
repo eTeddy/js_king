@@ -18,7 +18,7 @@ export const Home = () => {
       <h1>Powered By</h1>
       <p>HTML, CSS, JavaScript, JSX, <br />APIs, Vite & React!</p>
       <p>--------------------------------</p>    
-      <a href="https://eteddy.github.io/" target="_blank">Fun Projects</a>
+      <a className="fun" href="https://eteddy.github.io/" target="_blank">Fun Projects</a>
 
       <p>--------------------------------</p>    
       <a href="https://www.worldflagcounter.com/details/iyi" target="_blank">
