@@ -5,6 +5,7 @@ export const Footer = (props) => {
   
   return (
     <div className="footer">
+      <a href="https://eteddy.github.io/" target="_blank">My Portfolio</a>
       <p>Minimalist 🧡 May 2023</p>
     </div>
   );
