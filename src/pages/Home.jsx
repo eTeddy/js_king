@@ -18,11 +18,17 @@ export const Home = () => {
       <h1>Powered By</h1>
       <p>HTML, CSS, JavaScript, JSX, <br />APIs, Vite & React!</p>
       <p>--------------------------------</p>    
-      <a href="https://eteddy.github.io/" target="_blank">My Portfolio</a>
+      <a href="https://eteddy.github.io/" target="_blank">Fun Projects</a>
+
       <p>--------------------------------</p>    
+      <a href="https://www.worldflagcounter.com/details/iyi" target="_blank">
+        <img src="https://www.worldflagcounter.com/iyi/" alt="Flag Counter" />
+      </a>
+{/* 
       <a href="https://www.worldflagcounter.com/details/ix7" target="_blank">
-        <img src="https://www.worldflagcounter.com/ix7/" alt="Flag Counter" />
-        </a>    
+        <img src="https://www.worldflagcounter.com/ix7/" alt="Flag Counter" />  
+      </a>    
+ */}
     </div>
   )
 }
