@@ -22,7 +22,7 @@ export const Home = () => {
 
       <p>--------------------------------</p>    
       <a href="https://www.worldflagcounter.com/details/iyi" target="_blank">
-        <img width="250" src="https://www.worldflagcounter.com/iyi/" alt="Flag Counter" />
+        <img className="flag_img" src="https://www.worldflagcounter.com/iyi/" alt="Flag Counter" />
       </a>
 {/* 
       <a href="https://www.worldflagcounter.com/details/ix7" target="_blank">
